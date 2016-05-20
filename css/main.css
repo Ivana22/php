@@ -1,0 +1,41 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    border-top: 10px solid deepskyblue;
+    border-bottom: 5px solid darkgray;
+    text-align: center;
+    font-size: 24px;
+    color: #404040;
+}
+table{
+    border:1px solid deepskyblue;
+    width: 100%;
+}
+
+table tr:nth-child(even){
+    background-color: #4cda64;
+}
+table tr:nth-child(odd){
+    background-color: #9bdabe;
+}
+table tr:first-child{
+    background-color: grey;
+    color: white;
+}
+
+
+/**************************************************************
+add.php
+***************************************************************/
+button{
+    border: none;
+    background-color: #4cda64;
+    width: 100px;
+    height: 30px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+input{
+    width: 200px;
+}

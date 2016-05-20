@@ -1,0 +1,190 @@
+/*div.container1{
+	width:100%; 
+	height: 100%;
+	background-image:url(../images/pozadina_copy.png);
+	margin:auto;
+}*/
+
+div.wrapper{
+	width:90%; 
+	font-family: open-sans, sans-serif; 
+	margin:auto;
+	font-size: 10px;
+}
+
+div.header{
+	height: 185px;
+}
+div.header-top{
+	height: 30px;
+	background-color: #c0e3cc;
+	color: #548196;
+	width: 100%;
+}
+
+div.header-top .left{
+	float: left;
+}
+
+div.header-top .left ul{
+	display: inline-block;
+	margin-left: 8px;
+
+}
+
+div.header-top .left ul li{
+	display: inline;
+	margin-left: 4px;
+	
+}
+
+div.header-top .left ul li img{
+	height: 18px;
+	width: 13px;
+	margin-top: 5px;
+}
+
+#pismo{
+	height: 16px;
+	width: 20px;
+}
+
+div.header-top .right{
+	float: right;
+}
+
+div.header-top .right ul{
+	margin-right: 8px;
+}
+
+div.header-top .right ul li{
+	display: inline-block;
+
+}
+
+div.header-top .right ul li img{
+	height: 21px;
+	width: 21px;
+	margin-top: 5px;
+	margin-left: 8px;
+}
+
+div.header .header-bottom{
+	height: 155px;
+	width: 100%;
+}
+
+div.header .header-bottom .logo{
+	width: 185px;
+	height: 125px;
+	/*float: left;*/
+}
+
+div.header .header-bottom .logo img{
+	width: 185px;
+	height: 125px;
+	/*float: left;*/
+	margin-top: 17px;
+	/*display: inline-block;*/
+}
+
+.navbar-collapse{
+/*	border-radius: 0px;
+	border-style: none;
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;*/*/
+
+}
+
+
+
+.navbar-default{
+	/*width: 60%;*/
+	background-color: #3c8ec5!important;
+	border-radius: 0px;
+	border-style: none;
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+	/*position: absolute;*/
+	/*width: 785px;*/
+}
+
+
+
+.navbar-default .navbar-nav>li>a {
+    color: white!important;
+}
+
+ .navbar-form{
+	width: 140px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.col-sm-3.col-md-3.pull-right{
+	margin-top: 5px;
+}
+
+.navbar-form .input-group>.form-control{
+	height: 20px;
+	min-width:100px;
+}
+
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group{
+	height: 20px;
+	/*position: /*absolute*/
+}
+
+.glyphicon{
+	    top: -5px!important;
+}
+
+/*.navbar-collapse.collapse{
+	background-color: #3c8ec5;
+	border-radius: 0px;
+	width: 80%;
+	border-style: none;
+	font-size: 14px;
+}
+
+.navbar-default{
+	background-color: #3c8ec5;
+	
+	width: 80%;
+}
+
+
+
+.navbar-default .navbar-nav > li > a{
+	color: white;
+	font-size: 14px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background-color: #2a6b96;
+	color: white;
+	font-size: 14px;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+	background-color: #2a6b96;
+	color: white;
+	font-size: 14px;
+}*/
+@media (max-width: 991px){
+	/*.navbar{visibility: hidden!important;}*/
+	.navbar-default .navbar-nav>a{
+		padding-left: 1px!important;
+		padding-right: 1px!important;
+	}
+	.navbar-default .navbar-nav>li>a{
+		padding-left: 4px!important;
+		padding-right: 4px!important;
+	}
+	/*.col-sm-3.col-md-3.pull-right*/
+
+}
+

@@ -1,0 +1,606 @@
+@media(max-width: 1530px){
+.navbar-default{
+	font-size: 16px;
+
+}
+
+.blog .bottom1 .big{
+	max-height: 550px;
+	min-height:487px;
+}
+
+}
+
+@media(max-width: 1512px){
+	.info h2{
+		min-height:90px!important;
+	}
+}
+
+@media(max-width: 1441px){
+	.info h2{
+		min-height:98px!important;
+	}
+	
+	.blog .bottom1 .big{
+	max-height: 550px;
+	min-height:485px;
+}
+}
+
+@media(max-width: 1347px){
+	.navbar-nav>li{
+	padding-right: 1.3%;
+	padding-left: 1.3%;
+	width:auto;
+}
+
+	.info2 p{
+		font-size: 15px!important;
+	}
+	
+	.blog .bottom1 .big{
+	min-height:483px;
+
+}
+}
+
+@media(max-width: 1229px){
+
+.info img{
+	vertical-align: top;
+	margin-bottom: 15px;
+}
+
+.navbar-nav>li{
+	padding-right: 1%;
+	padding-left: 1%;
+	width:auto;
+}
+
+	.blog .bottom1 .big{
+	min-height:482px;
+
+}
+}
+
+@media(max-width: 1220px){
+	.info h2{
+		font-size:18px!important;
+	}
+}
+
+@media(max-width: 1177px){
+	.navbar-default .navbar-nav > li > a{
+		font-size: 14px;
+	}
+	
+
+	
+}
+
+@media(max-width: 1159px){
+	div.nav{
+	width:77%; 
+}
+}
+
+@media(max-width: 1144px){
+	.info h2{
+		min-height:98px!important;
+	}
+}
+
+@media(max-width: 1138px){
+	.navbar-nav>li{
+	padding-right: 0.5%;
+	padding-left: 0.5%;
+	width:auto;
+}
+	
+	.info img{
+		width: 70px;
+	}
+	
+	.info .delivery img{
+		width: 80px;
+	}
+	
+	.info2 p{
+		font-size: 14px!important;
+	}
+	
+	.info2 .zanas h3{
+	margin-bottom: 14px!important;
+	font-size: 18px!important;
+}
+}
+
+@media(max-width: 1082px){
+	.navbar-nav>li{
+	margin-right: 0.1%;
+}
+	.info h2{
+		font-size: 16px!important;
+		min-height:90px!important;
+			}
+			
+					.blog .bottom1 .big{
+	min-height:487px;
+
+}
+
+.blog .bottom1 .big{
+	min-height:481px;
+
+}
+}
+
+@media (max-width: 1048px){
+	.navbar-default .navbar-nav>a{
+		padding-left: 1px!important;
+		padding-right: 1px!important;
+	}
+	.navbar-default .navbar-nav>li>a{
+		padding-left: 4px!important;
+		padding-right: 4px!important;
+	}
+
+	div.nav{
+		width: 75%!important;
+		/*height: 60%;*/
+	}
+	.nav .navbar-nav{
+		width: 100%!important;
+	}
+	
+	.navbar-nav>li{
+	padding-right: 1.5%;
+	padding-left: 1.5%;
+}
+
+	div.header .header-bottom .zhivotni img{
+		float: right;
+	}
+
+	.info h2{
+		font-size: 16px!important;
+	}
+	
+		.info2 p{
+		font-size: 13px!important;
+	}
+	
+	.info2 .zanas h3{
+	margin-bottom: 12px!important;
+	font-size: 17px!important;
+}
+
+.brendovi .bottom img{
+	width: 75%;
+}
+
+.brendovi .bottom ul li{
+	margin-right:3%!important;
+}
+
+.blog .bottom1 .big{
+	min-height:479px;
+
+}
+}
+
+@media (max-width: 1014px){
+	.navbar-nav>li{
+	padding-right: 1%;
+	padding-left: 1%;
+}
+
+.navbar-default .navbar-nav > li > a
+}
+
+@media (max-width: 948px){
+.navbar-default .navbar-nav > li > a{
+	font-size: 13px;
+}
+}
+
+@media (max-width: 922px){
+	.nav .navbar-nav{
+		width: 100%!important;
+	}
+	.nav{
+		width: 70%!important;
+	}
+
+		div.header .header-bottom .logo img{
+		float: left;
+		margin-top: 14px;
+	}
+
+	.navbar-nav>li{
+	margin-right: 0%;
+
+}
+	div.header .header-bottom .zhivotni img{
+		width: 500px;
+	}
+	
+	.info h2{
+		font-size:15px!important;		
+	}
+	
+
+}
+
+@media (max-width: 925px){
+	.nav .navbar-nav{
+		width: 100%!important;
+	}
+	.nav{
+		width: 70%!important;
+	}
+
+		div.header .header-bottom .logo img{
+		width: 166px;
+		height: 110px;
+		float: left;
+		margin-top: 26px;
+	}
+
+	div.header .header-bottom .zhivotni img{
+		width: 500px;
+	}
+	
+	h3{
+		font-size: 20px!important;
+	}
+	
+	.blog .bottom1 .big{
+	min-height:477px;
+
+}
+}
+
+@media (max-width: 888px){
+	.info h2{
+		min-height:100px!important;
+	}
+	
+	.blog .bottom1 .short{
+	height:244px;
+}
+
+	.blog .bottom1 .big{
+	min-height:503px;
+
+}
+
+.navbar-default .navbar-nav>li>a{
+	font-size:12px;
+}
+
+}
+
+@media (max-width: 836px){
+		div.header .header-bottom .logo img{
+	width: 163px;
+	height: 114px;
+	float: left;
+	margin-top: 23px;
+}
+
+div.header .header-bottom .zhivotni img{
+	width: 485px;
+}
+
+	div.header .header-bottom .logo img{
+	width: 120px;
+	height: 80px;
+	float: left;
+	margin-top: 1px;
+	display: inline-block;
+}
+
+div.header .header-bottom .zhivotni{
+	display: none;
+	height: 0px;
+}
+
+div.header-bottom .zhivotni img{
+	/*width: 0%;*/
+	height: 0%;
+	display: none;
+}
+
+div.nav{
+	width:	80%!important;
+	float: right;	
+	margin-top: 28px;
+}
+
+
+.info .delivery img{
+	height: 60px;
+	margin-bottom: 15px;
+	margin-left: 25%;
+}
+
+	.info .discount img{
+	height: 60px;
+	margin-bottom: 15px;
+	margin-left: 25%;
+}
+
+	.info .shop img{
+	height: 60px;
+	margin-bottom: 15px;
+	margin-left: 25%;
+}
+
+	.info h2{
+		clear:left;
+		min-height:63px!important;
+	}
+	
+	h3{
+		text-align: center!important;
+		font-size: 18px!important;
+	}
+
+
+}
+
+@media (max-width: 767px){
+	div.nav{
+		width: 70%!important;
+		/*height: 60%;*/
+	}
+
+	div.header .header-bottom .zhivotni img{
+	/*visibility: hidden;*/
+	width:	0%;
+}
+	
+	div.header .header-bottom .logo img{
+		margin-top: 1px;
+	}
+	
+	.info h2{
+		font-size:14px!important;
+
+}
+
+	.blog .bottom1 .short{
+	height:254px;
+}
+
+	.blog .bottom1 .big{
+	min-height:521px;
+
+}
+}
+
+@media (max-width: 784px){
+	.navbar-default .navbar-nav > li > a{
+		font-size: 13px!important;
+	}
+
+	h3{
+		font-size: 16px!important;
+	}
+	
+	.info h2{
+		min-height:65px!important;
+	}
+	
+	.blog .bottom1 .big{
+	min-height:501px;
+
+}
+
+
+}
+
+@media (max-width: 724px){
+	.info2{
+	display:block;
+	min-height: 340px;
+	max-height: 400px;
+}
+
+.info2 .zanas {
+	width: 100%;
+	margin-bottom: 1%;
+	max-height: 250px!important;
+	min-height: 30px!important;
+}
+
+.info2 p{
+	font-size: 14px!important;
+	min-height: 10px!important;
+}
+
+.info2 .zanas h3{
+	
+	margin-bottom: 8px!important;
+	font-size: 16px!important;
+}
+
+.info2 .zanas{
+	padding: 15px!important;
+}
+
+	.blog .bottom1 .short{
+	float: none;
+	margin-right: 0px;
+	max-width:100%;
+	padding: 3%;
+	height: 185px!important;
+	max-height: 300px;
+}
+
+	.blog .bottom1 .big{
+	float: none;
+	margin-right: 0px;
+	max-width:100%;
+	padding: 3%;
+	min-height: 288px;
+	margin-bottom: 3%;
+
+}
+
+	.blog .bottom1 .big img{
+		min-width: 30%;
+		margin-right: 2%;
+		float: left;
+	}
+	
+	.blog .bottom1 div{
+		float:none;
+	}
+}
+
+@media (max-width: 646px){
+	.info2{
+	min-height: 390px;
+}
+	.info h3{
+		font-size:15px;
+	}
+	
+	 .logo-wrap {
+  min-height:100px;
+}
+
+
+
+.brendovi .bottom .logo-wrap ul li {
+  width: 100px;
+}
+
+.brendovi .bottom .logo-wrap ul li{
+	margin-right: 1%!important;
+}
+}
+
+@media (max-width: 575px){
+	div.wrapper{
+		width:90%;
+	}
+	
+div.header-top{
+	height: 30px;
+}
+
+div.header-top .left{
+	float: left;
+}
+
+div.header-top .left ul{
+	margin-left: 8px;
+
+}
+
+
+div.header-top .left ul:last-child{
+	visibility: hidden;
+	display: none;
+}
+
+h3{
+		font-size: 14px!important;
+	}
+	
+	.info h2{
+		min-height:75px!important;
+	}
+	
+	.info2 p{
+	font-size: 13px!important;
+	min-height: 10px!important;
+}
+
+.info2 .zanas h3{
+	
+	margin-bottom: 5px!important;
+	font-size: 15px!important;
+}
+
+.info2{
+	min-height: 350px;
+}
+
+}
+
+@media (max-width: 540px){
+	
+	.info h2{
+		min-height:30px!important;
+	}
+}
+
+@media (max-width: 499px){
+	.nav{
+		margin-top: 0px;
+		width: 50%!important;
+	}
+div.nav{
+	width:60%!important;
+}
+
+	div.header-bottom .logo {
+	width: 120px!important;
+}
+	.info h2{
+		min-height:30px!important;
+	}
+	
+	.info2{
+	min-height: 360px!important;
+}
+
+}
+
+@media (max-width: 447px){
+.info2{
+	min-height: 380px!important;
+}
+
+.blog .bottom1 .short{
+	min-height: 180px;
+}
+
+.blog .bottom1 .big{
+	min-height: 220px;
+}
+
+.blog .bottom1 .short img, .blog .bottom1 .big img{
+	display: none;
+	visibility:hidden;
+}
+
+}
+
+@media (max-width: 424px){
+.info2{
+	min-height: 410px!important;
+}
+}
+
+@media (max-width: 377px){
+.info2{
+	min-height: 435px!important;
+	margin-bottom: 3%;
+}
+
+div.nav{
+	width:50%!important;
+}
+}
+
+@media (max-width: 332px){
+.info2{
+	min-height: 470px!important;
+}
+}

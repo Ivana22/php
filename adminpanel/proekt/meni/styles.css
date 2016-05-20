@@ -1,0 +1,22 @@
+.navbar-default{
+	background-color: #3c8ec5;
+	border-radius: 0px;
+	width: 80%;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: white;
+	font-size: 14px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background-color: #2a6b96;
+	color: white;
+	font-size: 14px;
+}
+
+.navbar-default .navbar-nav>.open>a{
+	background-color: #2a6b96;
+}
+
+

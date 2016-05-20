@@ -1,0 +1,142 @@
+div.wrapper{
+	font-size: 10px;
+}
+
+div.header-top{
+	height: 30px;
+}
+
+div.header-top .left{
+	float: left;
+}
+
+div.header-top .left ul{
+	margin-left: 8px;
+
+}
+
+
+div.header-top .left ul:last-child{
+	visibility: hidden;
+	display: none;
+}
+
+div.header-top .left ul li img{
+	height: 14px;
+	width: 9px;
+	margin-top: 5px;
+}
+
+#pismo{
+	height: 12px;
+	width: 16px;
+}
+
+div.header-top .right{
+	/*float: right;*/
+	display: none;
+}
+
+div.header-bottom .logo {
+	width: 20%;
+}
+
+div.header-bottom .zhivotni{
+	/*width: 0%;*/
+	height: 0%;
+	display: none;
+}
+
+div.header-bottom .zhivotni img{
+	/*width: 0%;*/
+	height: 0%;
+	display: none;
+}
+
+div.header .header-bottom .logo img {
+    width: 120px;
+    height: 80px;
+    float: left;
+    margin-top: 1px;
+     display: inline-block; 
+}
+
+div.nav{
+	margin-top: 30px;
+	width: 40%!important;
+}
+
+.info{
+	margin-top: 20px;
+	position: relative;
+}
+
+.info .delivery{
+	display: block;
+	width: 100%;
+	margin-right: 4%;
+	vertical-align: top!important;
+}
+
+.info .delivery img{
+	display: block;
+	float: left;
+	width: 60px!important;
+	height: 40px!important;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	margin-left: 1%!important;
+	
+}
+
+.info .discount{
+	display: inline-block;
+	width: 100%;
+	margin-right: 4%;
+	vertical-align: top!important;
+}
+
+.info .discount img{
+	display: block;
+	float: left;
+	width: 60px!important;
+	height: 45px!important;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	margin-left: 1%!important;
+}
+
+.info .shop{
+	display: inline-block;
+	width: 100%;
+	margin-right: 0%;
+	vertical-align: top!important;
+}
+
+.info .shop img{
+	display: block;
+	float: left;
+	width: 60px!important;
+	height: 40px!important;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	margin-left: 1%!important;
+}
+
+.info h2{
+	font-size: 14px!important;
+	clear: none!important;
+	min-height: 30px!important;
+	
+}
+
+.info h3{
+	font-size: 14px!important;
+	margin: 10px 0px 15px 0px!important;
+	text-align:center!important;
+}
+
+.info2{
+	min-height: 340px!important;
+}
+
